@@ -1,3 +1,5 @@
 # DEMO
 
-- learning github
+- learning Github
+
+1. I know how to push modifications to Github
